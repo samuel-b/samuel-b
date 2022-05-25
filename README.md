@@ -13,8 +13,8 @@
 
 <hr>
 
-- 🔭 I’m currently working on a full CRUD API springboot application
-- 🌱 I’m currently learning SQL 
+- 🔭 I’m currently working on a react workout-tracker application with firestore back-end and a local crm-project with a full CRUD API springboot/mySQL back-end and a typescript front-end.
+- 🌱 I’m always learning.
 
 
 ### :hammer_and_wrench: Languages and Tools 
