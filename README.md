@@ -13,8 +13,12 @@
 
 <hr>
 
-- 🔭 I’m currently working on a react workout-tracker application with firestore back-end and a local crm-project with a full CRUD API springboot/mySQL back-end and a typescript front-end.
-- 🌱 I’m always learning.
+- 🔭 I’m currently working on
+  - React workout-tracker application with firestore back-end for persistant data
+  - crm-project with a full CRUD springboot API (local), mySQL database (AWS RDS) and a typescript front-end (local)
+  - Recreation of my personal portfolio site using next.js (SSG), react query, antd components, and AWS S3
+  
+- 🌱 I’m always learning, currently improving on typescript, java, aws and next.js
 
 
 ### :hammer_and_wrench: Languages and Tools 
