@@ -12,11 +12,14 @@
 </div>
 
 <hr>
+ 
+ - :white_check_mark: Most recently finished 
+   - Recreation of my personal portfolio site using next.js (SSG), react query, antd components, and AWS Amplify
 
 - 🔭 I’m currently working on
-  - React workout-tracker application with firestore back-end for persistant data
+  - React workout-tracker application with a current firestore back-end for persistant data, working on a springboot API and
+  MongoDB Atlas noSQL database to replace it. 
   - crm-project with a full CRUD springboot API (local), mySQL database (AWS RDS) and a typescript front-end (local)
-  - Recreation of my personal portfolio site using next.js (SSG), react query, antd components, and AWS S3
   
 - 🌱 I’m always learning, currently improving on typescript, java, aws and next.js
 
